@@ -46,7 +46,7 @@ set atblanks
 
 ## Constantly display the cursor position in the status bar.  Note that
 ## this overrides "quickblank".
-# set constantshow
+set constantshow
 
 ## Use cut-from-cursor-to-end-of-line by default.
 # set cutfromcursor
