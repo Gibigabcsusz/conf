@@ -31,7 +31,7 @@ set atblanks
 # set backupdir ""
 
 ## Use bold text instead of reverse video text.
-set boldtext
+# set boldtext
 
 ## The characters treated as closing brackets when justifying paragraphs.
 ## This may not include any blank characters.  Only closing punctuation,
@@ -52,7 +52,7 @@ set boldtext
 # set cutfromcursor
 
 ## Do not use the line below the title bar, leaving it entirely blank.
-# set emptyline
+set emptyline
 
 ## Set the target width for automatic hard-wrapping and for justifying
 ## paragraphs.  If the specified value is 0 or less, the wrapping point
